@@ -23,7 +23,7 @@ If you need to refer to the project requirements or the specific deliverables fo
 
 All projects will be submitted under the **projects directory**. In that directory you will find a folder that is labeled with your algorithm number / name combination. For our example, this would be **./projects/04-coinchange/**. Everything you submit for your project should reside in your project's specific subfolder. 
 
-Note the **index.md** file in your root directory. This file will be preplaced in your directory and simply provides links to your various resources / submissions. You will need to go through that file and update any file names that you submitted that do not match.
+Note the **index.md** file in your root directory. This file will be preplaced in your directory and simply provides links to your various resources / submissions. You **will need to go through that file and update file names/links that you submitted to make them match to make the links work**.
 
 - projects/
 	- 04-coinChange/
@@ -41,8 +41,7 @@ Note the **index.md** file in your root directory. This file will be preplaced i
 				- sample.in.3
 				- sample.out.3
 		- slides/
-			- lecture_coinChange.pptx (this is the longer lecture slides)
-			- presentation_coinChange.pptx (this is the 10 min pres. version)
+			- presentation_coinChange.pptx
 		- programmingChallenge/
 			- problemStatement.pdf
 			- io/
@@ -53,8 +52,6 @@ Note the **index.md** file in your root directory. This file will be preplaced i
 				- test.out.20
 			- solutions/
 				- pcSol_cpp.cpp
-				- pcSol_java.java
-				- pcSol_python.py
 
 
 

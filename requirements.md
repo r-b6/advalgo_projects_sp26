@@ -14,10 +14,10 @@ To complete this project, you will produce multiple deliverables. You will push 
 
 1. **Executive Summary**: 4-8 page description of everything that has been delivered in this packet / project. 
 2. **Implementation**: In C++, Java, and Python. The code needs to be thoroughly commented. 
-3. **Instructional Slides**: Two sets of instructional slides. The first, a thorough, well designed, informative slideset that briefly teach the topic to an advanced undergraduate audience (about one lecture or 10-15 slides in length). A second, shorter, set of slides will be submitted that will be used for your 10 minute presentation.
+3. **Instructional Slides**: One set of instructional slides. A compact, well designed, informative slideset that briefly teaches the topic to an advanced undergraduate audience. This slide deck can be presented in about 10-12 minutes.
 4. **PC: Custom Programming Challenge**: A programming assignment that asks students to use the algorithm in question, but with at least one notable twist / change to the topic / algorithm in question.
 5. **PC Test Cases**: At least 20 test cases that cover likely edge cases and test for speed / efficiency.
-6. **PC Solution**: A solution to your custom PC in all three languages (C++, Java, Python).
+6. **PC Solution**: A solution to your custom PC in any one language of your choice (C++, Java, Python).
 
 You can find more detail about each of the requirements below.
 
@@ -49,11 +49,9 @@ Lastly, to showcase your understanding of the code / algorithm, and to assist ot
 <a name="slides"></a>Instructional Slides
 ---------------------------------------
 
-You will develop **two sets of instructional slides** that teach your topic / algorithm in a **college, lecture format**. The first set of slides will be traditional set of lecture slides, that provide a thorough overview of the algorithm with details, code, examples, visuals, etc. This set should be about 10-15 slides in length and would take approximate one traditional college lecture to deliver to an audience. 
+You will develop **one set of instructional slides** that teach your topic / algorithm in a **college, lecture format**. This slide deck will be used for your **class presentation** and will be delivered in a maximum of **10-12 minutes**. For most topics, you will not be able to completely cover all details in this limited amount of time. Your slides (and eventually your presentation) should cover as much detail as you reasonably can comfortably within the time limit. For some topics, this might be very detailed and for others this might be more surface / high level. We would expect this deck to have somewhere between 5-8 slides.
 
-Your second slide deck will be used for your **class presentation** and will be delivered in a maximum of **10 minutes**. For many topics, you will not be able to completely cover all details of your topic in this limited amount of time. Your slides (and eventually your presentation) should cover as much detail as you reasonably can comfortably within the time limit. For some topics, this might be very detailed and for others this might be more surface / high level. We would expect this second eck to have somewhere between 5-8 slides.
-
-Both sets of slides should prioritize **showing, over telling**. In other words, try to maximize your use of images, tables, graphs, code snippets, etc. over text boxes. An undergraduate student should be capable of reading your executive summary above, and then using your slides to teach the topic. Your slides should cover everything regarding your topic including the motivation, the overall approach, the implementation, and the analysis. You **do not need to cover** your programming challenge and solution in your slide decks.
+The slides should prioritize **showing, over telling**. In other words, try to maximize your use of images, tables, graphs, code snippets, etc. over text boxes. An undergraduate student should be capable of reading your executive summary above, and then using your slides to teach the topic. Your slides should cover everything regarding your topic including the motivation, the overall approach, the implementation, and the analysis. You **do not need to cover** your programming challenge and solution in your slide deck.
 
 
 <a name="pc"></a>Programming Challenge
@@ -71,5 +69,5 @@ To whatever extent is relevant, you will provide **at least 20 test cases** that
 <a name="solution"></a>PC: Solution
 ---------------------------------------
 
-You will implement a solution to your programming challenge in three programming languages (C++, Java, Python). As before, you will comment your solution thoroughly (see [Implementation](#implementation) section above for more detail).
+You will implement a solution to your programming challenge in one of three programming languages (C++, Java, or Python). As before, you will comment your solution thoroughly (see [Implementation](#implementation) section above for more detail).
 
